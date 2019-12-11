@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的学习笔记</title>
+    <link>https://www.chained.com.cn/post/</link>
+    <description>Recent content in Posts on 我的学习笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Oct 2018 19:18:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.chained.com.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开山之作</title>
+      <link>https://www.chained.com.cn/post/my-first-post/</link>
+      <pubDate>Tue, 30 Oct 2018 19:18:15 +0800</pubDate>
+      
+      <guid>https://www.chained.com.cn/post/my-first-post/</guid>
+      <description>个人编程，写一个命令行程序 注册Github账号，建立项目仓库 添加ReadMe.md并编辑，描述项目的简要介绍、功能、用例、下载、文档等 建立d</description>
+    </item>
+    
+  </channel>
+</rss>
